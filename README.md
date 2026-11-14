@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blood Bank Management System
 
 A role-based blood bank management application with a React/Vite frontend, Express backend and MySQL 8.0 database.
@@ -20,3 +21,6 @@ Read [README-MYSQL-SETUP.md](README-MYSQL-SETUP.md) for the complete Windows + M
 5. Open `http://localhost:5173`.
 
 For an existing database from the earlier MySQL build, use `backend/sql/upgrade_mysql8_existing.sql` once rather than dropping the database. The optional Docker stack is documented in `README-MYSQL-SETUP.md`.
+=======
+# Blood-bank-management-system
+>>>>>>> 03ca9060f539265e70eb2fad5b20aa08e54bef9e
